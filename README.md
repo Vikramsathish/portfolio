@@ -1,3 +1,3 @@
 # Portfolio Website
 
-My Portfolio [Website] built using **React**, **ThreeJS** and **tailwindcsss**
+Check out my [Portfolio Website](https://vikramsathish.github.io/portfolio/) built using **React**, **Three.js**, and **TailwindCSS**.

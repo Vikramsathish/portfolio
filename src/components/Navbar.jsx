@@ -30,10 +30,10 @@ const Navbar = () => {
 
         
         <div className="hidden sm:flex gap-4">
-          <a href="https://www.linkedin.com/in/vikram-s-415b9923a/">
+          <a href="https://www.linkedin.com/in/vikramsathish/" target="_blank">
             <img src={linkedin} alt="linkedin" className='h-5 w-5'/>
           </a>
-          <a href="https://github.com/Vikramsathish">
+          <a href="https://github.com/Vikramsathish" target="_blank">
             <img src={githubs} alt="github" className='h-5 w-5'/>
           </a>
           {/* <a href="">

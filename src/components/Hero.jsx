@@ -26,10 +26,10 @@ const Hero = () => {
       </div>
 
       <div className="absolute top-[320px] justify-center w-full sm:hidden flex gap-8">
-          <a href="https://www.linkedin.com/in/masif2002/">
+          <a href="https://www.linkedin.com/in/vikramsathish/" target="_blank">
             <img src={linkedin} alt="linkedin" className='h-10 w-10'/>
           </a>
-          <a href="https://github.com/masif2002">
+          <a href="https://github.com/Vikramsathish" target="_blank">
             <img src={githubs} alt="linkedin" className='h-10 w-10'/>
           </a>
         </div>

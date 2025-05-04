@@ -68,7 +68,6 @@ import imaginet from "./company/imaginet.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import buzzplosion from './buzzplosion.png';
 import adsfluence from './adsfluence.png'
 import votify from './votify.png'
@@ -114,7 +113,7 @@ export {
   imaginet,
   carrent,
   jobit,
-  tripguide,
+
   // pic,
   nginx,
   apache,

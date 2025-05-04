@@ -22,7 +22,6 @@ import {
   shopify,
   carrent,
   jobit,
-  tripguide,
   threejs,
   colorpodge,
   imaginet,
